@@ -1,5 +1,4 @@
 - 👋 이름   - 이준우
 - 🏫 학력   - 성결대학교 24학번
-- 🪪 학과   - [컴공] 컴퓨터공학과
+- 🪪 학과 - [컴공] 컴퓨터공학과
 - 📫 메일   - lycous377@gmail.com, leejunwoo1112@sungkyul.ac.kr  
-- 📷 인스타 - jun_.w._oo, elfama_r590
